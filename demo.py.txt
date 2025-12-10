@@ -1,1 +1,4 @@
 print("girija")
+print("syed")
+print("yuvan")
+print("Bharathi")
